@@ -1,2 +1,2 @@
-# My45Assignment
-Typescript file of Governor Sindh IT Initiative 45 question (Solved)
+# 45Assignment
+"This repository comprises solutions to 45 TypeScript assignments, showcasing practical implementations."
